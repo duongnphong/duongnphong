@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Phong!</h1>
-<h3 align="center">Learner!</h3>
 
 - 🎓 I’m currently a student at Graduate School of Science and Technology, [Kyoto Institute of Technology.](https://www.kit.ac.jp/en/academic-programs/graduate-school/) My research focuses on medical image processing through the integration of machine learning techniques, enablong accurate diagnosis, and optimizing treatment strategies.
 
 - 🌱 I’m currently learning Image Processing, Computer Vision and Artificial Intelligence.
-
-- 📫 How to reach me **phong.duongnam@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
