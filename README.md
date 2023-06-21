@@ -2,7 +2,7 @@
 
 - 🎓 I’m a student at Graduate School of Science and Technology, [Kyoto Institute of Technology.](https://www.kit.ac.jp/en/academic-programs/graduate-school/) My research focuses on medical image processing through the integration of machine learning techniques to enhance diagnosis and treatment optimization.
 
-- 🌱 I'm currently immersed in the study of Image Processing, Computer Vision, and Artificial Intelligence, expanding my proficiency in these transformative fields.
+- 🌱 I'm deeply engrossed in the study of Image Processing, Computer Vision, and Artificial Intelligence, propelling myself towards expertise in these transformative and rapidly-evolving fields.
 <p align="left">
 </p>
 
