@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap">
+<p style="font-family: 'Zen Kurenaido', sans-serif;">This is a paragraph written in the Zen Kurenaido font.</p>
 <h1 align="center">Hi 👋, I'm Phong!</h1>
 
 - 🎓 I’m a student at Graduate School of Science and Technology, [Kyoto Institute of Technology.](https://www.kit.ac.jp/en/academic-programs/graduate-school/) My research focuses on medical image processing through the integration of machine learning techniques to enhance diagnosis and treatment optimization.
